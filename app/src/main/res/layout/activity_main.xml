@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="132dp"
+        android:layout_marginTop="112dp"
+        android:text="@string/tituloinicio"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="88dp"
+        android:text="@string/usuario"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <EditText
+        android:id="@+id/edtusuario"
+        android:layout_width="231dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="76dp"
+        android:ems="10"
+        android:hint="Digite usuario"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="92dp"
+        android:text="@string/clave"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <EditText
+        android:id="@+id/edtclave"
+        android:layout_width="225dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="86dp"
+        android:layout_marginEnd="36dp"
+        android:ems="10"
+        android:hint="Digite clave"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView3"
+        app:layout_constraintTop_toBottomOf="@+id/edtusuario" />
+
+    <Button
+        android:id="@+id/btningresar"
+        android:layout_width="103dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="84dp"
+        android:text="@string/ingresar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <Button
+        android:id="@+id/btncancelar"
+        android:layout_width="112dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="89dp"
+        android:layout_marginTop="85dp"
+        android:text="@string/Cancelar"
+        app:layout_constraintStart_toEndOf="@+id/btningresar"
+        app:layout_constraintTop_toBottomOf="@+id/edtclave" />
+
+    <Button
+        android:id="@+id/prueba1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="71dp"
+        android:layout_marginTop="63dp"
+        android:text="@string/Prueba1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btningresar" />
+
+    <Button
+        android:id="@+id/prueba2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="67dp"
+        android:text="@string/Prueba2"
+        app:layout_constraintStart_toEndOf="@+id/prueba1"
+        app:layout_constraintTop_toBottomOf="@+id/btncancelar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
