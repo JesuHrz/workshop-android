@@ -1,4 +1,4 @@
-package co.edu.uac.apmoviles.example1;
+package co.edu.unimagdalena.apmoviles.tallertabletlistview;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("co.edu.uac.apmoviles.example1", appContext.getPackageName());
+        assertEquals("co.edu.unimagdalena.apmoviles.tallertabletlistview", appContext.getPackageName());
     }
 }

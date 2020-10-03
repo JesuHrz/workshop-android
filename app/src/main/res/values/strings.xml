@@ -1,10 +1,22 @@
 <resources>
-    <string name="app_name">Example1</string>
-    <string name="tituloinicio">Bienvenido</string>
-    <string name="usuario">Usuario</string>
-    <string name="clave">Clave</string>
-    <string name="ingresar">Ingresar</string>
-    <string name="Cancelar">Cancelar</string>
-    <string name="Prueba1">Prueba1</string>
-    <string name="Prueba2">Prueba2</string>
+    <string name="app_name">TallerTabletListView</string>
+    <string name="boton0">0</string>
+    <string name="boton1">1</string>
+    <string name="boton2">2</string>
+    <string name="boton3">3</string>
+    <string name="boton4">4</string>
+    <string name="boton5">5</string>
+    <string name="boton6">6</string>
+    <string name="boton7">7</string>
+    <string name="boton8">8</string>
+    <string name="boton9">9</string>
+    <string name="botonmas">+</string>
+    <string name="botonmenos">-</string>
+    <string name="botonpor">*</string>
+    <string name="botondiv">/</string>
+    <string name="botonigual">=</string>
+    <string name="botonsqrt">SQRT</string>
+    <string name="botoninv">1/x</string>
+    <string name="botonc">C</string>
+    <string name="paises">Paises</string>
 </resources>

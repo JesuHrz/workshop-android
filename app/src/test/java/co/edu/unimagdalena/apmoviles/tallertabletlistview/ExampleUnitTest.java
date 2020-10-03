@@ -1,4 +1,4 @@
-package co.edu.uac.apmoviles.example1;
+package co.edu.unimagdalena.apmoviles.tallertabletlistview;
 
 import org.junit.Test;
 
