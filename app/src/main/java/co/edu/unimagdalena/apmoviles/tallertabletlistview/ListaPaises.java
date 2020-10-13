@@ -10,33 +10,40 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
+import java.util.List;
+
+import co.edu.unimagdalena.apmoviles.tallertabletlistview.Adapter.CustomAdapter;
+import co.edu.unimagdalena.apmoviles.tallertabletlistview.Model.Book;
 
 public class ListaPaises extends AppCompatActivity {
 
-    ListView listapaises;
-    ArrayList<String> paises = new ArrayList<String>();
-
+    ListView books;
+    List<Book> bookList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lista_paises);
-        paises.add("Colombia");
-        paises.add("Chile");
-        paises.add("Peru");
-        paises.add("Brasil");
-        paises.add("Usa");
-        paises.add("Panamá");
-        listapaises = findViewById(R.id.lstpaises);
-        ArrayAdapter<String> adapter= new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,paises);
-        listapaises.setAdapter(adapter);
 
-        listapaises.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        books = findViewById(R.id.lstpaises);
+        CustomAdapter adapter = new CustomAdapter(this, getBook());
+        books.setAdapter(adapter);
+
+        books.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Toast.makeText(getApplicationContext(), "Pais : " + (paises.get(position)),Toast.LENGTH_LONG).show();
+                Book book = bookList.get(position);
+                Toast.makeText(getApplicationContext(), "Book : " + (book.author), Toast.LENGTH_LONG).show();
             }
         });
 
+    }
+
+    private List<Book> getBook() {
+        bookList = new ArrayList<>();
+        bookList.add(new Book("JavaScript Scope and Closures", "Simpson, Kyle", "1 Edition"));
+        bookList.add(new Book("You Don t Know JS : Up & Going", "Simpson, Kyle", "2 Edition"));
+
+        return bookList;
     }
 
 
