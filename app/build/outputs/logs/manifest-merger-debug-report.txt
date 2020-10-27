@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\770423934595c48276a551991b1a8416\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d9c89b000a0652be2d679d5de38ec542\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bf0072f4cfe4487cff436eb63de6fcff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0.aar\8afb867954a84914e72a8c09b6994bee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a72dc3867a6bfbdd9a1d2b45ac4d553\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d564d717410a20e228b55dcbb1b3e2de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\76eb9aa924bbcb3162f57a686fc925ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0.aar\3cb465872acb9f0a401d206ca3e7e3f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cd206cd7b4ff4397841f7d5a1ecfa18e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b9813087c1ca23dd9b4df9f4a53e27ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4ef5d93d3bf08f5631a786aa27f82dbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bcf9cf07948ad0739d182c1541fcb1ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3d91a3bc0ff4a7473d39bed3f664c07f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f0dd5c1c72bf41a5b742f8c33e530950\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5062020501f9ccf153345a5fded21d4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f777b58bdb38aee8f6d92884b87a78e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0ce1689d51c881d049fa29183e3f01c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\03e3fffa3ce759d4f55ce6fab71711c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0.aar\0df2b272921ae94e4bc43514a834a757\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\28573838694bee6ea5f9c7d7ddf2c84c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8b66be43ab5e0db1c5914f6162d55e25\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7c19dce776f0c3ff5b0d2f4bd5242eea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3bb5d8c693738734b8a89487bf0c680c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\402b5573a0efc9ba84672f219b682b12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fe99620a62f9195245d8c5a9965b00a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\81a70408680b44f7a23e1cc23e85c9c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b523aa186ea6a249f0168fd4e9312967\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b31326bbf8d3695b0719dbcd392a5fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6e85fb8e1a950e85036aaad03f1fd658\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec0ac718bafa4cc7771e0e8a5302dd36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b7af2c8c82a15cc2b70d1dcd27670e2\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d9c89b000a0652be2d679d5de38ec542\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d9c89b000a0652be2d679d5de38ec542\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\28573838694bee6ea5f9c7d7ddf2c84c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\28573838694bee6ea5f9c7d7ddf2c84c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8b66be43ab5e0db1c5914f6162d55e25\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8b66be43ab5e0db1c5914f6162d55e25\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\28573838694bee6ea5f9c7d7ddf2c84c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:11:9-41
+activity#com.nemoreno.healthApp.editActivity
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:12:9-81
+	android:name
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:12:19-69
+activity#com.nemoreno.healthApp.listarActivity
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:13:9-74
+	android:name
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:13:19-71
+activity#com.nemoreno.healthApp.addContactActivity
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:14:9-78
+	android:name
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:14:19-75
+activity#com.nemoreno.healthApp.opcionesActivity
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:15:19-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\770423934595c48276a551991b1a8416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\770423934595c48276a551991b1a8416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d9c89b000a0652be2d679d5de38ec542\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d9c89b000a0652be2d679d5de38ec542\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bf0072f4cfe4487cff436eb63de6fcff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bf0072f4cfe4487cff436eb63de6fcff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0.aar\8afb867954a84914e72a8c09b6994bee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0.aar\8afb867954a84914e72a8c09b6994bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a72dc3867a6bfbdd9a1d2b45ac4d553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a72dc3867a6bfbdd9a1d2b45ac4d553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d564d717410a20e228b55dcbb1b3e2de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d564d717410a20e228b55dcbb1b3e2de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\76eb9aa924bbcb3162f57a686fc925ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\76eb9aa924bbcb3162f57a686fc925ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0.aar\3cb465872acb9f0a401d206ca3e7e3f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0.aar\3cb465872acb9f0a401d206ca3e7e3f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cd206cd7b4ff4397841f7d5a1ecfa18e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cd206cd7b4ff4397841f7d5a1ecfa18e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b9813087c1ca23dd9b4df9f4a53e27ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b9813087c1ca23dd9b4df9f4a53e27ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4ef5d93d3bf08f5631a786aa27f82dbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4ef5d93d3bf08f5631a786aa27f82dbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bcf9cf07948ad0739d182c1541fcb1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bcf9cf07948ad0739d182c1541fcb1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3d91a3bc0ff4a7473d39bed3f664c07f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3d91a3bc0ff4a7473d39bed3f664c07f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f0dd5c1c72bf41a5b742f8c33e530950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f0dd5c1c72bf41a5b742f8c33e530950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5062020501f9ccf153345a5fded21d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5062020501f9ccf153345a5fded21d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f777b58bdb38aee8f6d92884b87a78e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f777b58bdb38aee8f6d92884b87a78e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0ce1689d51c881d049fa29183e3f01c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0ce1689d51c881d049fa29183e3f01c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\03e3fffa3ce759d4f55ce6fab71711c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\03e3fffa3ce759d4f55ce6fab71711c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0.aar\0df2b272921ae94e4bc43514a834a757\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0.aar\0df2b272921ae94e4bc43514a834a757\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\28573838694bee6ea5f9c7d7ddf2c84c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\28573838694bee6ea5f9c7d7ddf2c84c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8b66be43ab5e0db1c5914f6162d55e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8b66be43ab5e0db1c5914f6162d55e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7c19dce776f0c3ff5b0d2f4bd5242eea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7c19dce776f0c3ff5b0d2f4bd5242eea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3bb5d8c693738734b8a89487bf0c680c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3bb5d8c693738734b8a89487bf0c680c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\402b5573a0efc9ba84672f219b682b12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\402b5573a0efc9ba84672f219b682b12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fe99620a62f9195245d8c5a9965b00a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fe99620a62f9195245d8c5a9965b00a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\81a70408680b44f7a23e1cc23e85c9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\81a70408680b44f7a23e1cc23e85c9c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b523aa186ea6a249f0168fd4e9312967\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b523aa186ea6a249f0168fd4e9312967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b31326bbf8d3695b0719dbcd392a5fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b31326bbf8d3695b0719dbcd392a5fcb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6e85fb8e1a950e85036aaad03f1fd658\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6e85fb8e1a950e85036aaad03f1fd658\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec0ac718bafa4cc7771e0e8a5302dd36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec0ac718bafa4cc7771e0e8a5302dd36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b7af2c8c82a15cc2b70d1dcd27670e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pc-w10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b7af2c8c82a15cc2b70d1dcd27670e2\AndroidManifest.xml:20:5-44
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Nemoreno\UAC\Semestre_9\Desarrollo_de_nuevas_tec\healthApp-master\app\src\main\AndroidManifest.xml

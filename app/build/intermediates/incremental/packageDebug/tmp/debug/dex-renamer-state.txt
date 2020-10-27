@@ -1,0 +1,7 @@
+#Mon Oct 26 18:13:54 COT 2020
+base.0=D\:\\Nemoreno\\UAC\\Semestre_9\\Desarrollo_de_nuevas_tec\\healthApp-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Nemoreno\\UAC\\Semestre_9\\Desarrollo_de_nuevas_tec\\healthApp-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
